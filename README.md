@@ -40,23 +40,23 @@
 
 ## 🌍 Conéctate conmigo
 
-📩 **Correo:** [javierpoblete@example.com](mailto:javierpoblete@example.com)  
-💼 **LinkedIn:** [linkedin.com/in/javierpoblete](https://www.linkedin.com/in/javierpoblete)  
-📸 **Instagram:** [instagram.com/javierpoblete](https://www.instagram.com/javierpoblete)  
-🐦 **Twitter:** [twitter.com/javierpoblete](https://www.twitter.com/javierpoblete)  
+📩 **Correo:** [javierignaciopobletecc@gmail.com](mailto:javierignaciopobletecc@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/javier-poblete-a6544834a](https://www.linkedin.com/in/javier-poblete-a6544834a/)  
+📸 **Instagram:** [instagram.com/jvieer.r](https://www.instagram.com/jvieer.r/)  
+🐦 **Twitter:** [x.com/TheRegoosCL](https://x.com/TheRegoosCL)  
 🌐 **Portafolio:** [javierpoblete.dev](https://javierpoblete.dev)  
 
 <p align="center">
   <a href="https://github.com/RegoosCL">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/javierpoblete">
+  <a href="https://www.linkedin.com/in/javier-poblete-a6544834a/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/javierpoblete">
+  <a href="https://www.instagram.com/jvieer.r/">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.twitter.com/javierpoblete">
+  <a href="https://x.com/TheRegoosCL">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </p>
