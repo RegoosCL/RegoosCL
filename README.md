@@ -1,8 +1,8 @@
 <h1 align="center">¡Hola! Soy Javier Poblete 👨‍💻</h1>
 
 <p align="center">
-  <a href="https://github.com/RegoosCL/prototipo-ing/blob/main/Prototipo%20Rol/banner.jpg">
-    <img src="https://raw.githubusercontent.com/RegoosCL/prototipo-ing/main/Prototipo%20Rol/banner.jpg" alt="Banner Personal" width="1000" height="300">
+  <a href="https://github.com/RegoosCL/prototipo-ing/blob/main/Prototipo%20Rol/banner.png">
+    <img src="https://raw.githubusercontent.com/RegoosCL/prototipo-ing/main/Prototipo%20Rol/banner.png" alt="Banner Personal">
   </a>
 </p>
 
