@@ -44,7 +44,7 @@
 💼 **LinkedIn:** [linkedin.com/in/javier-poblete-a6544834a](https://www.linkedin.com/in/javier-poblete-a6544834a/)  
 📸 **Instagram:** [instagram.com/jvieer.r](https://www.instagram.com/jvieer.r/)  
 🐦 **Twitter:** [x.com/TheRegoosCL](https://x.com/TheRegoosCL)  
-🌐 **Portafolio:** [javier-curriculum](https://javier-curriculum-1ddg.vercel.app/)  
+🌐 **Portafolio:** [javier-curriculum](https://javier-curriculum-duaf.vercel.app/)  
 
 <p align="center">
   <a href="https://github.com/RegoosCL">
